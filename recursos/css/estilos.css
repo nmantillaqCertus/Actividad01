@@ -1,0 +1,41 @@
+*{
+    background: #0765ef;
+}
+
+.st{ 
+    border: 1px solid red; 
+} 
+
+.colorGreen{ 
+    color: rgba(17, 194, 49, 1); 
+
+}
+
+#idContent{ 
+    /*propiedades*/ 
+} 
+
+h5{ 
+    /*propiedades*/ 
+    color: red !important;
+
+}
+
+.hola3{
+    background-color: #0765ef;
+    color: white;
+    border-radius: 5px;
+    padding: 2%;
+}
+
+.espacio{
+    padding: 3%;   
+}
+
+.ancho{
+    width: 100%;
+    min-height: 350px;
+    border-radius:  10px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    margin-bottom: 5%;
+}
